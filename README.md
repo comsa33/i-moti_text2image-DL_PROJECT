@@ -8,3 +8,4 @@
 -	M1 max
 -	Python 3.8
 -	Tensorflow – metal (GPU)
+
