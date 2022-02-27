@@ -9,3 +9,5 @@
 -	Python 3.8
 -	Tensorflow – metal (GPU)
 
+# Project Presentation
+[![Video Label](http://img.youtube.com/vi/PnMkgFXcUi4/0.jpg)](https://youtu.be/PnMkgFXcUi4)
