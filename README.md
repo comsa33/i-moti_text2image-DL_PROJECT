@@ -7,6 +7,7 @@
 - [참고 논문 2 : Generative Adversarial Text to Image Synthesis](https://arxiv.org/pdf/1605.05396.pdf)
 - [참고 논문 3 : Learning Deep Representations of Fine-Grained Visual Descriptions](https://arxiv.org/pdf/1605.05395.pdf?)
 - [참고 논문 4 : Label-Embedding for Image Classification](https://www.mpi-inf.mpg.de/fileadmin/inf/d2/akata/TPAMI2487986.pdf)
+- [참고 논문 5 : Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092.pdf)
 
 ## text2image-DL_PROJECT
 -	텍스트를 입력하면 해당 텍스트 의미에 해당하는 적절한 이모티콘을 생성해내는 모델 개발 프로젝트
